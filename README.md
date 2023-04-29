@@ -1,2 +1,0 @@
-# pandemico-api
-BackEnd
